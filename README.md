@@ -162,6 +162,7 @@ These are listed on [PulseMCP](https://www.pulsemcp.com) but aren't open-source 
 - **SEO Checker (Hostinger)** — Multi-dimension SEO analysis
 - **Coupler.io MCP** — 70+ data source connections including GA, Google Ads, HubSpot
 - **Nightwatch SEO Agent** — SEO monitoring and analysis
+- **NotFair** — Hosted Google Ads MCP server. Diagnose campaigns (CPA, ROAS, search-term waste, quality scores), recommend optimizations, and execute approved changes via Google Ads API with human-approval gate. [notfair.co](https://notfair.co)
 
 ---
 
