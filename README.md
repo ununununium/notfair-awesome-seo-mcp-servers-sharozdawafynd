@@ -176,6 +176,7 @@ Agent Skills use the [Open Agent Skills specification](https://agentskills.io/sp
 | [marketingskills](https://github.com/coreyhaines31/marketingskills) | 14,967 | 48K+ (seo-audit) | 35 marketing skills including 6 SEO: seo-audit, ai-seo, programmatic-seo, site-architecture, competitor-alternatives, schema-markup |
 | [claude-seo](https://github.com/AgriciDaniel/claude-seo) | 2,662 | - | Universal SEO skill v1.5 — 12 sub-skills, 7 subagents, technical SEO, E-E-A-T, Core Web Vitals, GEO/AEO |
 | [seomachine](https://github.com/TheCraigHewitt/seomachine) | 2,818 | - | Long-form content workspace — 10 agents, 26 commands, GA4/GSC/DataForSEO integration |
+| [NotFair](https://github.com/nowork-studio/NotFair) | 2,924 | - | Claude Code skills for [SEO](https://github.com/nowork-studio/NotFair/tree/main/seo), [Google Ads](https://github.com/nowork-studio/NotFair/tree/main/google-ads), and [Meta Ads](https://github.com/nowork-studio/NotFair/tree/main/meta-ads) — connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP |
 | [seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) | 454 | 11K+ (backlink-analyzer) | 20 skills across Research/Build/Optimize/Monitor phases, cross-platform |
 | [openclaudia-skills](https://github.com/OpenClaudia/openclaudia-skills) | 260 | - | 56 marketing skills including 6 SEO, SemRush/Ahrefs/DataForSEO integration |
 | [marketing-skills](https://github.com/kostja94/marketing-skills) | 219 | - | 160+ markdown skills with deep SEO coverage |
